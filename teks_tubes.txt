@@ -1,0 +1,6 @@
+Toyota 7 8 9 7 7 8
+Mitsubishi 9 8 7 8 9 8
+Honda 7 8 8 7 9 8
+Nissan 8 8 7 8 8 7
+Volkswagen 9 10 7 8 8 9
+Ford 8 9 8 9 9 9
